@@ -14,6 +14,13 @@ Para ello tiene que compiar el archivo .env.example y cambiarle el nombre a .env
     php artisan key:generate
 ----
 
+## Descargar dependencias
+
+Es necesario descargar las dependencias.
+
+----
+    composer install
+----
 
 ## Configuracion de base de datos
 
